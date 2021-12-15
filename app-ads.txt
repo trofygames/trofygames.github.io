@@ -6,8 +6,7 @@ bidmachine.io, 139759, RESELLER
 #AdMob
 google.com, pub-1120079095202897, DIRECT, f08c47fec0942fa0
 #Facebook
-facebook.com, 134830722260612, DIRECT, c3e20eee3f780d68
-facebook.com, Business ID, RESELLER, c3e20eee3f780d68
+facebook.com, 134830722260612,  RESELLER, c3e20eee3f780d68
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
 #Applovin
