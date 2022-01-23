@@ -1,3 +1,4 @@
+facebook.com, 134830722260612, DIRECT, c3e20eee3f780d68
 #Last update Dec 16, 2021
 #=== AdMob
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
