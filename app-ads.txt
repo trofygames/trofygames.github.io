@@ -1,4 +1,5 @@
 facebook.com, 134830722260612, DIRECT, c3e20eee3f780d68
+facebook.com, 245990917750093, RESELLER, c3e20eee3f780d68
 
 #Last update Mar 18, 2022
 #CAS
